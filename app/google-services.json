@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844199002735",
+    "project_id": "firebase-locationsharer"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844199002735:android:8d00165a0605503c",
+        "android_client_info": {
+          "package_name": "com.abhishek.pal.locationsharer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844199002735-2qpfed304sorbgol0emccne1fnjp47gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek.pal.locationsharer",
+            "certificate_hash": "9aa415a1d7999ad08706bc89c6b0d02a0b22295c"
+          }
+        },
+        {
+          "client_id": "844199002735-cn0tcu5lipi0nesln2o7tjjldbva424i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DFptDVMr6HPlKi5PyAsipLBcgWW9CtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
